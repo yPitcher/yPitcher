@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yPitcher
 - 👀 I’m interested in Deep Learning (artificial intelligence)
-- 🌱 I’m currently learning Web Development (Currently in JS)/ Data Structures in C and Java
+- 🌱 I’m currently learning Web Development (Currently in JS) / Data Structures in C and Java
 - 💞️ I’m looking to collaborate on Newbie Projects / Startups / Freelancing
 - 📫 How to reach me: 📧 davi_9567@hotmail.com / Ln https://www.linkedin.com/in/davi-oliveira-6a80671b6/
