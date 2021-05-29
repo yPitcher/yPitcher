@@ -2,7 +2,7 @@
 
 <br/>
 
-- 👋 I’m yPitcher also known as Davi, currently living in :brazil:
+- 👋 I’m Davi also known as yPitcher, currently living in Brazil.
 - 👀 I’m interested in Deep Learning (artificial intelligence), Bot Development, Game Development and Drivers implementations.
 - 🌱 I’m currently learning Web Development (Currently in JS using Express/Feathers)
 - :man_technologist: I have some skills in C, C#, Java, Python, Web Development (front and back)
