@@ -3,8 +3,8 @@
 <br/>
 
 - 👋 I’m Davi also known as yPitcher, currently living in Brazil.
-- 👀 I’m interested in Deep Learning (artificial intelligence), Bot Development, Game Development and Drivers implementations.
-- 🌱 I’m currently learning Web Development (Currently in JS using Express/Feathers)
+- 👀 I’m interested in Deep Learning (artificial intelligence), Game Development and Drivers implementations.
+- 🌱 I’m currently learning Web Development (Currently in JS using Node, Feathers and React)
 - :man_technologist: I have some skills in:
     <img src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg width=40px height=30px><img/>
     <img src=https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg width=40px height=30px><img/>
