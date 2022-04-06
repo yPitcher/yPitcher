@@ -3,6 +3,7 @@
 <br/>
 
 - 👋 I’m Davi also known as yPitcher, currently living in Brazil.
+- ORCID - 0000-0003-1745-1601
 - 👀 I’m interested in Deep Learning (artificial intelligence), Game Development and Drivers implementations.
 - 🌱 I’m currently learning Web Development (Currently in JS using Node, Feathers and React)
 - :man_technologist: I have some skills in:
