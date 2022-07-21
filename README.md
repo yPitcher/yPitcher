@@ -16,6 +16,9 @@
     <img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg width=40px height=30px><img/>
     <img src=https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg width=40px height=30px><img/>
     <img src=https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg width=40px height=30px><img/>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg width=40px height=30px><img/>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg width=40px height=30px><img/>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg width=40px height=30px><img/>
    
 Github Stats;
 <br>
