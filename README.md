@@ -5,7 +5,7 @@
 - 👋 I’m Davi also known as yPitcher, currently living in Brazil.
 - ORCID - 0000-0003-1745-1601
 - 👀 I’m interested in Deep Learning (artificial intelligence), Game Development, parallel programming and Drivers implementations.
-- 🌱 I’m currently learning Web Development (Currently in JS using Node, Feathers and React)
+- 🌱 I’m currently looking for a new research project to join.
 - :man_technologist: I have some skills in:
     <img src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg width=40px height=30px><img/>
     <img src=https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg width=40px height=30px><img/>
@@ -24,10 +24,8 @@
    
 Github Stats;
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yPitcher&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yPitcher&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yPitcher&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yPitcher&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## If you have any project that needs an enthusiast, just call me then!
